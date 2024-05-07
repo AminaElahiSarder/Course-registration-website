@@ -1,0 +1,74 @@
+[
+  {
+      "id": 1,
+      "course_name": "Graphic Design Fundamentals",
+      "description": "Learn the basics of graphic design, including typography, color theory, and layout principles, to create visually stunning artwork.",
+      "img": "https://i.ibb.co/021yjmg/fundamentals-of-designing.jpg",
+      "price": 39.99,
+      "credit": 1
+  },
+  {
+      "id": 2,
+      "course_name": "Introduction to Psychology",
+      "description": "Explore the fascinating world of psychology, covering topics such as cognitive processes, behavioral psychology, and mental health.",
+      "img": "https://i.ibb.co/R6mxM7V/maxresdefault-1.jpg",
+      "price": 49.99,
+      "credit": 2
+  },
+  {
+      "id": 3,
+      "course_name": "Mobile App Development",
+      "description": "Master the art of creating mobile applications for iOS and Android platforms using popular frameworks and programming languages.",
+      "img": "https://i.ibb.co/27RqYtC/6410ebf8e483b5758186fbd8-ABM-college-mobile-app-dev-main.jpg",
+      "price": 69.99,
+      "credit": 10
+  },
+  {
+      "id": 4,
+      "course_name": "Creative Writing Workshop",
+      "description": "Unlock your creativity and enhance your writing skills through exercises, prompts, and feedback in a supportive workshop environment.",
+      "img": "https://i.ibb.co/2gqntW8/Frame-2.png",
+      "price": 29.99,
+      "credit": 5
+  },
+  {
+      "id": 5,
+      "course_name": "Financial Planning for Beginners",
+      "description": "Gain essential knowledge and skills to manage personal finances effectively, including budgeting, investing, and retirement planning.",
+      "img": "https://i.ibb.co/ZzbnPsp/Financial-Planning-1.webp",
+      "price": 59.99,
+      "credit": 5
+  },
+  {
+      "id": 6,
+      "course_name": "Introduction to Artificial Intelligence",
+      "description": "Discover the principles and applications of artificial intelligence, including machine learning, neural networks, and natural language processing.",
+      "img": "https://i.ibb.co/6BkHGw9/introduction-to-artificial-intelligence-powerpoint-presentation-Slide01.jpg",
+      "price": 79.99,
+      "credit": 2
+  },
+  {
+      "id": 7,
+      "course_name": "Yoga and Meditation Practice",
+      "description": "Embark on a journey of self-discovery and inner peace through the practice of yoga postures, breathing exercises, and meditation techniques.",
+      "img": "https://i.ibb.co/BCSyWxY/Blog-Banners-75.png",
+      "price": 49.99,
+      "credit": 5
+  },
+  {
+      "id": 8,
+      "course_name": "Web Development Bootcamp",
+      "description": "Learn the essential skills and tools needed to become a proficient web developer, including HTML, CSS, JavaScript, and frameworks.",
+      "img": "https://i.ibb.co/y5Cq8P5/6-2.jpg",
+      "price": 89.99,
+      "credit": 5
+  },
+  {
+      "id": 9,
+      "course_name": "Photography Essentials",
+      "description": "Master the fundamentals of photography, including camera settings, composition techniques, and post-processing tips, to capture stunning images.",
+      "img": "https://i.ibb.co/wdQQRqq/Photography-BCG-Banner.png",
+      "price": 59.99,
+      "credit": 2
+  }
+]
